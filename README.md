@@ -11,3 +11,10 @@ A simple game for study base on Cocos2d-x3.0
 所以，游戏的名字才会叫做：别！救！我！
 
 因为是游戏实例，所以做了精简，只有很少的代码。
+
+
+教程目录：
+
+***
+
+[Cocos2d-x3.0游戏实例之《别救我》第一篇——前言](https://github.com/musicvs/DonotSaveMe/wiki/Cocos2d-x3.0%E6%B8%B8%E6%88%8F%E5%AE%9E%E4%BE%8B%E4%B9%8B%E3%80%8A%E5%88%AB%E6%95%91%E6%88%91%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AF%87%E2%80%94%E2%80%94%E5%89%8D%E8%A8%80)
